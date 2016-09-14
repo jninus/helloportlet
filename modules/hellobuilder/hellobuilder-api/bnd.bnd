@@ -1,0 +1,7 @@
+Bundle-SymbolicName: hellobuilder-api
+Bundle-Version: 1.0.0
+Export-Package:\
+	zango.example.exception,\
+	zango.example.model,\
+	zango.example.service,\
+	zango.example.service.persistence
