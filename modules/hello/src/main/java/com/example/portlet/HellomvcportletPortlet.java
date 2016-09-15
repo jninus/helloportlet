@@ -111,7 +111,7 @@ public class HellomvcportletPortlet extends MVCPortlet{
 //		student.setFirstName(fname);
 //		System.out.println("Coordinates 2:"+student.getFirstName());
 		//		StudentLocalServiceUtil.addStudent(student);
-		System.out.println("Notimeforspace"+StudentLocalServiceUtil.getStudentsCount());
+		System.out.println("Everything is fine Dude :D!"+StudentLocalServiceUtil.getStudentsCount());
     }	
 	
 	
